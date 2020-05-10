@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.clBox {
+  background-color: lightgray;
+  /*padding: 20px;*/
+  border: 5px solid black;
+  height: 230px;
+  overflow: visible;
+  margin-bottom: 35px;
+  float: left; 
+  /*margin-right:20px*/
+}
+
+.clBox1 {
+  margin-left: 4%;
+  margin-right: 2%;
+}
+
+.clBox2 {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.clBox3 {
+  margin-left: 2%;
+  margin-right: 4%;
+}
+
+.menuText {
+  margin-bottom: 30px;
+  font-family: cursive; 
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+  height: 30px;
+    width: 100px;
+    display: block;
+    float: right;
+    border: 2px solid black;
+    padding-top:4px;
+    font-family: cursive;
+}
+
+.textStyle {
+  float: left;
+    padding-left: 20px;
+    padding-top: 10px; 
+    font-family: cursive;
+}
+
+.bgPink {
+  background-color:pink;
+}
+
+.bgMaroon {
+  background-color:maroon
+}
+
+.bgLgYellow {
+  background-color:lightyellow
+}
